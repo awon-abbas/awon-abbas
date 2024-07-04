@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awon-abbas
+- 👋 Hi, I’m Awon Abbas
 
 <!---
 awon-abbas/awon-abbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
